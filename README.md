@@ -16,10 +16,10 @@ click next
 choose file location and name
 select size to 40
 select single disk 
-click next t
+click next 
 finish
 from home select mac os 10.14
-select edit this virtual macine
+select edit this virtual machine
 goto hard disk/SATA
 click on remove 
 click add 
